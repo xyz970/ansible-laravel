@@ -1,0 +1,6 @@
+---
+# defaults file for db
+db_pkg:
+- mariadb-server
+- mariadb-client
+- python3-pymysql

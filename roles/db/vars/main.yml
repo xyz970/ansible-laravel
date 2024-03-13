@@ -1,0 +1,6 @@
+---
+# vars file for db
+psroot: xyz970
+db_user: xyz970
+db_pass: 12345678
+db_name: laravel
